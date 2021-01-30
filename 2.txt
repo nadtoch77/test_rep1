@@ -1,1 +1,2 @@
 line 1 in file 2.txt from GitHub
+line 2 from local
